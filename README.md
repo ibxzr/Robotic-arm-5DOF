@@ -40,7 +40,9 @@ This project presents a 3D-designed robotic arm with 5 Degrees of Freedom (5DOF)
 
 ## 🖼 Preview
 
-> (Insert the exported image from TinkerCAD here once uploaded)
+Here is the 3D model preview of the robotic arm designed in TinkerCAD:
+
+![Robotic Arm Preview](IMG_1418.png)
 
 ---
 
